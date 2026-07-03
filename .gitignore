@@ -1,1 +1,11 @@
 .claude/
+
+# Raw source images (large, uncompressed) - only images/web/ is used by the site
+images/For_Web/
+images/Line Art/
+images/NewStory/
+images/Sci-fi/
+images/*.png
+images/*.jpg
+images/*.JPG
+images/*.PNG
